@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "camera_and_microphone_access_icon.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

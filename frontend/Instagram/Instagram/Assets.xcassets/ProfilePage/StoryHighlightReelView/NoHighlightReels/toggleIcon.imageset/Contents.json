@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "story_highlight_reels_full_view_toggle_icon.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
